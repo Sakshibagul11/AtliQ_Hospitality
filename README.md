@@ -11,3 +11,9 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard
 
 ## Data Model
+
+<p align="center">
+    <img src='https://github.com/Sakshibagul11/AtliQ_Hospitality/blob/main/Data_Model.png'height="400">
+</p>
+
+
