@@ -16,4 +16,15 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
     <img src='https://github.com/Sakshibagul11/AtliQ_Hospitality/blob/main/Data_Model.png'height="400">
 </p>
 
+## OverAll Analysis View
+
+<p align="center">
+    <img src='https://github.com/Sakshibagul11/AtliQ_Hospitality/blob/main/Dashboard.png' width="600">
+</p>
+
+
+
+
+
+
 
